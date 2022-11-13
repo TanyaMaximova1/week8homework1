@@ -1,0 +1,27 @@
+.container {
+    padding-top: 20px;
+}
+
+ul {
+    background-color: antiquewhite;
+}
+
+.footer {
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.p__footer {
+    color: aliceblue;
+    padding: 15px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: centerF;
+}
